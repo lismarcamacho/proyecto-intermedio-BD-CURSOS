@@ -1,6 +1,6 @@
 # proyecto-intermedio-BD-CURSOS
 Basado en el curso de Santander Open Academy
-<img width="1440" height="900" alt="WhatsApp Image 2026-10-05 at 10 30 22 PM (1)" src="https://github.com/user-attachments/assets/9b4b82cd-dcd6-4f7d-b40b-f937445703ef" />
+
 
 
 
