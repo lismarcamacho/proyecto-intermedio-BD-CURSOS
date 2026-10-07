@@ -36,6 +36,22 @@ Basado en el curso de Santander Open Academy
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/732ef31e-cb76-42c4-98ff-292147de916a" />
 
+## Mapa coropletico 
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/365ee3b6-b4bd-4775-8ee0-579a1689050d" />
+
+## Ejercicio 4
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/462d56e5-ebdf-4169-be3a-95d9b8215b98" />
+
+
+## Interacciones
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ec8c4c53-77bb-49ab-a663-dccedb1a54ec" />
+
+## Ejercicio 5
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/69ec0212-befc-4bd0-aad6-1f7d66cbc2f5" />
+
 
 
 
