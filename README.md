@@ -53,6 +53,10 @@ Basado en el curso de Santander Open Academy
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/69ec0212-befc-4bd0-aad6-1f7d66cbc2f5" />
 
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d0bf7d57-2081-4801-a317-f4144d74b94a" />
+
+
+
 
 
 
